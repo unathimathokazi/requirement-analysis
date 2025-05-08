@@ -32,4 +32,25 @@ Requirement Analysis is essential to the success of software projects for severa
 
 3. **Ensures Product Quality and User Satisfaction**
 
+## Key Activities in Requirement Analysis
+
+The process of Requirement Analysis involves several key activities that ensure a clear understanding of what needs to be built. These activities help transform vague ideas into well-defined software requirements.
+
+- **Requirement Gathering**  
+  This involves collecting requirements from stakeholders such as users, customers, business managers, and subject matter experts. It lays the foundation for understanding what the system must accomplish.
+
+- **Requirement Elicitation**  
+  Elicitation is about drawing out information through techniques such as interviews, questionnaires, observations, and workshops. It focuses on uncovering implicit, hidden, or assumed needs that may not be immediately obvious.
+
+- **Requirement Documentation**  
+  All gathered and elicited requirements are documented in a clear and structured format. Common documentation tools include Software Requirements Specifications (SRS), user stories, and use cases.
+
+- **Requirement Analysis and Modeling**  
+  In this step, requirements are analyzed for feasibility, consistency, and completeness. Visual models like data flow diagrams (DFDs), UML diagrams, and wireframes may be used to represent the requirements more clearly.
+
+- **Requirement Validation**  
+  Validation ensures that the documented requirements accurately reflect stakeholder needs and that they are achievable within project constraints. Techniques include reviews, walkthroughs, and prototyping.
+
+
+
 
