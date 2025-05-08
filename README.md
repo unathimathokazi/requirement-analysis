@@ -94,5 +94,7 @@ The following diagram illustrates a simplified use case model for a Booking Mana
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
 
-![alx-booking-uc png](https://github.com/user-attachments/assets/6937588b-37fc-400b-851f-a527cd1fb549)
+
+![alx-booking-uc png (3)](https://github.com/user-attachments/assets/e4a21680-1252-406d-8f16-4d8d9a92ac2a)
+
 
