@@ -87,7 +87,8 @@ Use Case Diagrams are a visual representation of a system’s functional require
 - Facilitate communication between stakeholders and development teams.
 - Serve as a foundation for writing detailed use case scenarios.
 
-  ![Use Case  Diagram](alx-booking-uc.png)
+  ![alx-booking-uc png](https://github.com/user-attachments/assets/d81af4d9-f8dd-443c-a701-28e2bba9a274)
+
 
 ### Booking System Use Case Diagram
 
