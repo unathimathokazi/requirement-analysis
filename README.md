@@ -91,11 +91,13 @@ Use Case Diagrams are a visual representation of a system’s functional require
 
 The following diagram illustrates a simplified use case model for a Booking Management System. It includes primary actors like customers and admins, as well as the core use cases they interact with.
 
-![alx-booking-uc png (3)](https://github.com/user-attachments/assets/4b8527a5-f024-4043-9ea5-47b81afc82e5)
+
+![alx-booking-uc png](https://github.com/user-attachments/assets/d3c95ef6-92e7-4634-ab9f-624274cf8d88)
 
 
 
 
-![alx-booking-uc png (3)](https://github.com/user-attachments/assets/e4a21680-1252-406d-8f16-4d8d9a92ac2a)
+
+
 
 
