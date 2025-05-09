@@ -99,5 +99,27 @@ The following diagram illustrates a simplified use case model for a Booking Mana
 
 
 
+## Acceptance Criteria
+
+Acceptance Criteria are specific, measurable conditions that a software product must satisfy to be accepted by stakeholders. They define what "done" means for a feature or user story and ensure the software meets the expected functionality and quality.
+
+### Importance of Acceptance Criteria:
+- **Clarity:** Provides clear expectations for developers, testers, and stakeholders.
+- **Validation:** Ensures that features meet user needs and business requirements.
+- **Testing:** Forms the basis for writing test cases and performing validation.
+- **Communication:** Reduces ambiguity by aligning everyone on what success looks like.
+
+### Example: Acceptance Criteria for the "Checkout" Feature in the Booking Management System
+
+**Feature:** Checkout
+
+**Acceptance Criteria:**
+- The user must be able to review the booking summary before final confirmation.
+- The system must display the total amount including any applicable taxes or fees.
+- The user must be able to select a payment method (e.g., credit card, PayPal).
+- Upon successful payment, the system must generate a confirmation number.
+- A confirmation email must be sent to the user within 2 minutes of checkout.
+- If payment fails, the user must receive an error message and have the option to retry.
+
 
 
